@@ -1,0 +1,12 @@
+*.o
+*.mod.c
+*.mod
+*.log
+*.ko
+*.order
+*.symvers
+*.cmd
+*.o.d
+*.o.tmp
+*.ver
+tool/hw_test
